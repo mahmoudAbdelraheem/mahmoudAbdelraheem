@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mahmoud Abdelraheem
 
-![Profile views](https://github.com/mahmoudAbdelraheem)
+
 
 ### [Mahmoud]'s GitHub Profile
 
