@@ -9,7 +9,7 @@ Hey there, I'm [Mahmoud Abdelraheem], a Flutter Developer and Frontend Developer
 - 🔭 I’m currently working on [Movie App](https://github.com/mahmoudAbdelraheem/movies_app)
 - 🌱 I’m currently learning **Advanced Flutter, State Management with Bloc , Design Pattren**
 - 👯 I’m looking to collaborate on **Open Source Flutter and Frontend Projects**
-- 💬 Ask me about **Flutter, Dart, JavaScript, HTML5, CSS3 , SASS , bootstrap**
+- 💬 Ask me about **Flutter, Dart, React-Native, Angular, React.js**
 - 📫 How to reach me **mahmoud.raheemm@gmail.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mahmoud-abd-elraheem-a95124188/)
 - 📄 Get My CV [Drive](https://drive.google.com/file/d/1oBsMObZbgK_xoAxhfaX3C2_J66S8mXTR/view?usp=sharing)
