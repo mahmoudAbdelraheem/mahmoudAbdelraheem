@@ -16,8 +16,8 @@ Hey there, I'm [Mahmoud Abdelraheem], a Flutter Developer and Frontend Developer
 
 ## Skills
 - **Languages**: Dart, JavaScript, HTML5, CSS3
-- **Frameworks**: Flutter
-- **Tools**: Git, Firebase, Visual Studio Code
+- **Frameworks**: Flutter ,React Native, React.js 
+- **Tools**: Git, Firebase, supabase
   
 
 <!--
