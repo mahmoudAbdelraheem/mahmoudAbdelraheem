@@ -11,7 +11,7 @@ Hey there, I'm [Mahmoud Abdelraheem], a Flutter Developer and Frontend Developer
 - 👯 I’m looking to collaborate on **Open Source Flutter and Frontend Projects**
 - 💬 Ask me about **Flutter, Dart, React-Native, Angular, React.js**
 - 📫 How to reach me **mahmoud.raheemm@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mahmoud-abd-elraheem-a95124188/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mahmoud-abdelraheem-a95124188/)
 - 📄 Get My CV [Drive](https://drive.google.com/file/d/1L5txrtnTYx22pl67_10-IbfYN9skaEYm/view?usp=sharing)
 
 ## Skills
