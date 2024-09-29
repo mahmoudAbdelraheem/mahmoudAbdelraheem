@@ -5,9 +5,10 @@
 ### [Mahmoud]'s GitHub Profile
 
 Hey there, I'm [Mahmoud Abdelraheem], a Flutter Developer and Frontend Developer with experience in building beautiful and functional mobile and web applications.
-
+<!--
 - 🔭 I’m currently working on [Blog App](https://github.com/mahmoudAbdelraheem/blog_app)
 - 🌱 I’m currently learning **Advanced Flutter, State Management with Bloc , Design Pattren**
+-->
 - 👯 I’m looking to collaborate on **Open Source Flutter and Frontend Projects**
 - 💬 Ask me about **Flutter, Dart, React-Native, Angular, React.js**
 - 📫 How to reach me **mahmoud.raheemm@gmail.com**
